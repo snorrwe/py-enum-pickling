@@ -1,1 +1,1 @@
-py-enum-pickling
+# Example of `pickling` in `Python`
