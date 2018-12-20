@@ -1,1 +1,1 @@
-# Example of `pickling` in `Python`
+# `enum` usage examples in __Python__
